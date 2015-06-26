@@ -7,7 +7,6 @@ class Base extends \Phalcon\Mvc\Controller
     public function initialize()
     {
         Phalcon\Tag::prependTitle('Hello | ');
-		date_default_timezone_set("PRC");
     }
 }
 
