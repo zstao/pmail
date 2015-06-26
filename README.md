@@ -1,0 +1,1 @@
+This is phpstorm phalcon project structure.
