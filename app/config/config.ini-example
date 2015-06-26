@@ -1,4 +1,4 @@
-在当前文件夹下新建一个config.ini文件，并将以下内容copy到文件中：
+在当前文件夹下新建一个config.ini文件，并将以下内容copy到该文件中：
 [database]
 host     = localhost
 username = 这里替换为本地数据库的用户名
