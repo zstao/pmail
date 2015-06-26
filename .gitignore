@@ -1,3 +1,4 @@
 
 cache/volt/*.php
 .idea
+app/config/config.ini
