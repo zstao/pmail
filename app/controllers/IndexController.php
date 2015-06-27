@@ -13,4 +13,9 @@
         {
 		
         }
-	}
+        
+        public function helloAction()
+        {
+	    echo "hello world".$this->request->get("a");
+        }
+    }
