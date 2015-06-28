@@ -2,3 +2,5 @@
 cache/volt/*.php
 .idea
 app/config/config.ini
+app/composer.phar
+app/vendor
