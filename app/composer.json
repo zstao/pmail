@@ -1,0 +1,13 @@
+{
+  "config":
+  {
+    "preferred-install": "dist"
+  },
+
+
+  "require":
+  {
+    "phpmailer/phpmailer": "~5.2",
+    "tedivm/fetch": "0.6.*"
+  }
+}

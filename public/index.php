@@ -122,7 +122,7 @@ try{
     echo $app->handle()->getContent();
 
 }catch (\Phalcon\Exception $e){
-    echo "Phalcon 异常", $e->getMessage();
+    echo "Phalcon 异常：", $e->getMessage();
 }catch (Exception $e){
-    echo "Php 异常", $e->getMessage();
+    echo "Php 异常：", $e->getMessage();
 }
